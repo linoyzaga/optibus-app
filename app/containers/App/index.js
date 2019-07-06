@@ -17,9 +17,9 @@ export default function App() {
   return (
     <AppWrapper>
       <Helmet
-        defaultTitle="RapidAPI"
+        defaultTitle="Optibus"
       >
-        <meta name="description" content="RapidAPI project" />
+        <meta name="description" content="Optibus project" />
       </Helmet>
       <Switch>
         <Route exact path="/" component={HomePage} />

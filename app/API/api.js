@@ -23,6 +23,16 @@ class API {
 
     return handleSessions(axios(opts));
   }
+
+  static getDrivers() {
+    const opts = {
+      method: 'get',
+      headers,
+      url: '/data/drivers',
+    };
+
+    return handleSessions(axios(opts));
+  }
 }
 
 module.exports = API;

@@ -1,4 +1,4 @@
-<div align="center"><strong>RapidAPI project based on react-boilerplate</strong></div>
+<div align="center"><strong>Optibus project based on react-boilerplate</strong></div>
 
 Files updated:
 server:
@@ -10,8 +10,6 @@ frontend (app):
   API/api.js
   containers/HomePage/index.js
   containers/HomePage/HomePage.css
-  containers/LoginPage/index.js
-  containers/LoginPage/LoginPage.css
   containers/App/index.js
 
-`npm start` to run
+`yarn start` to run
