@@ -232,7 +232,7 @@
     "ip": "1.1.5",
     "jsonwebtoken": "^8.2.0",
     "jwt-decode": "^2.2.0",
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "minimist": "1.2.0",
     "moment": "^2.24.0",
     "prop-types": "15.5.10",
